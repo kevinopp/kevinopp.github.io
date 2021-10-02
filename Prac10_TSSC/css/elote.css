@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #524741;
+}
+	
+	
+
+.div1{
+	background-color:#221D1A;
+	width:80%;
+	position:absolute;
+	left:10%;
+	right:10%;	
+}
+
+ul{
+	
+	text-align:right;
+	list-style-type: none;
+}
+
+li{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	size: 18px;
+	margin-right: 20px;
+	display: inline;
+	
+}
+
+a:link{
+	color:#E6AD2A;
+	text-decoration: none;
+}
+
+a:hover{
+	
+	color:WHITE;
+}
+
+.div2{
+	position:absolute;
+	background-color:#E6AD2A;
+	width:80%;
+	height:1200px;
+	margin: 0 auto;
+	top:9%;
+	left:10%;
+	right:10%;
+	
+	
+}
+
+.div3{
+	background-color:#221D1A;
+	position:absolute;
+	width:80%;
+	top:60%;
+	left:10%;
+	right:10%;
+	margin: 0 auto;
+	text-align:center;
+	
+}
+
+#prin{
+	text-align:center;
+	position:absolute;
+	left:22%;
+	
+}
+
+.img3{
+	width:100px;
+	height:70px;
+	margin-top:5px;
+	left:40%;
+	
+	
+}
+
+#i1{
+	text-align:center;
+	position:absolute;
+	left:22%;
+	
+}
+
+#i2{
+	text-align:center;
+	position:absolute;
+	left:22%;
+	
+}
+
+#i3{
+	text-align:center;
+	position:absolute;
+	left:22%;
+	
+}
+
+#i4{
+	text-align:center;
+	position:absolute;
+	left:22%;
+	
+}
+
+#i5{
+	text-align:center;
+	position:absolute;
+	left:22%;
+	
+}
+
+
+	
+	
+	
+	
