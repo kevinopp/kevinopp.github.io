@@ -5,11 +5,13 @@ html{
 }
 header{
     background-color: white;
-    height: 40px;
+    
+    height: 20%;
 
 }
 section{
-    height: 90px;
+    
+    height: 20%;
     background-color: #1b2a4e;
 }
 
@@ -18,4 +20,7 @@ section{
     color: white;
     background-color: #1b2a4e;
 
+}
+footer{
+    height: 20%;
 }
