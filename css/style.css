@@ -5,8 +5,10 @@ html{
 }
 header{
     background-color: white;
+    height: 40px;
 
 }
 section{
-    height: 70px;
+    height: 90px;
+    background-color: #1b2a4e;
 }
