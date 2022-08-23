@@ -4,6 +4,9 @@ html{
 
 }
 header{
-    background-color: beige;
+    background-color: white;
 
+}
+section{
+    height: 70px;
 }
