@@ -1,0 +1,27 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+img{
+    width: 400px;
+    height: 200px;
+}
+
+table{
+    border: 1px solid black;
+    color: #000;
+    font-size: 14px;
+    padding: 10px;
+
+}
+
+h1{
+    font-size: 20px;
+    color: #333;
+}
+
+h2{
+    
+}
+
