@@ -43,3 +43,18 @@ p, li, tfoot{
     font-size: 12px;
 }
 
+thead{
+    background-color: #666;
+}
+
+tbody{
+    background-color: #fff;
+    
+}
+
+tfoot{
+    
+    background-color: #ccc;
+}
+
+
