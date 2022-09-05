@@ -59,4 +59,14 @@ tfoot{
     background-color: #ccc;
 }
 
+th{
+    border: 2px solid black;
+}
+
+td{
+    border: 2px solid black;
+    
+}
+
+
 
