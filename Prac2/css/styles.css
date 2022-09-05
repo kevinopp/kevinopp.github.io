@@ -27,4 +27,19 @@ h2{
 
 }
 
+thead{
+    background-color: #666;
+    font-size: 12px;
+    color: white;
+}
+
+a{
+    font-size: 12px;
+    color: blue;
+}
+
+p, li, tfoot{
+    color: #000;
+    font-size: 12px;
+}
 
