@@ -17,9 +17,9 @@
             <br><br>
             <label for="select">Lista de seleccion:</label>
             <select id="select" name="select" onchange="alertaa()">
-                <option value="value1">Value 1</option>
-                <option value="value2">Value 2</option>
-                <option value="value3">Value 3</option>
+                <option value="1">Value 1</option>
+                <option value="2">Value 2</option>
+                <option value="3">Value 3</option>
             </select>
             <br><br>
             <label for="textarea">Area de texto:</label>
@@ -37,7 +37,7 @@
         function alertaa()
         {
             var cod = document.getElementById("select").value;
-            if(cod == value2){
+            if(cod == 2){
                 alert("Opcion invalida")
             }
         }
