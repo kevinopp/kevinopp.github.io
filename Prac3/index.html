@@ -16,7 +16,7 @@
             <input type="text" id="nombre" name="nombre" style="text-transform: uppercase;">
             <br><br>
             <label for="select">Lista de seleccion:</label>
-            <select id="select" name="select" onchange="alertaa()">
+            <select id="select" name="select" onchange="alertMessage();">
                 <option value="value1">Value 1</option>
                 <option value="value2">Value 2</option>
                 <option value="value3">Value 3</option>
@@ -34,12 +34,11 @@
         </fieldset>
     </form>
     <script>
-        function alertaa(){
-            x = document.getElementById("select");
-            if(x == document.getElementById("value2")){
-                alert("Opcion incorrecta");
+        function alertMessage()
+        {
+            if(document.getElementById('select').value =="value2"){
+                alert('Opcion invalida');
             }
-            
         }
     </script>
 </body>
