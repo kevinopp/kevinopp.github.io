@@ -11,7 +11,7 @@
 <body>
     <form action="">
         <fieldset>
-            <legend>Formulario CBATIS</legend>
+            <legend>Formulario </legend>
             <label for="nombre">Campo de texto:</label>
             <input type="text" id="nombre" name="nombre" style="text-transform: uppercase;">
             <br><br>
@@ -24,7 +24,7 @@
             <br><br>
             <label for="textarea">Area de texto:</label>
             <br>
-            <textarea name="textarea" rows="10" cols="50"></textarea>
+            <textarea name="textarea" rows="10" cols="50" onchange="porcentaje()"></textarea>
             <br><br>
         </fieldset>
         <fieldset>
@@ -43,7 +43,9 @@
         }
 
         function porcentaje(){
-
+            let textin = document.getElementById('textarea').value;
+            let textin2 = textin.replace(' ', '%');
+            document.getElementById("textarea")
 
         }
     </script>
