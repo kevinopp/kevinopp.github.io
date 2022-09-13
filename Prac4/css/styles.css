@@ -1,6 +1,7 @@
 #cabezon{
     background-color: coral;
-    height: 20%;
+    width: 20%;
+    
 }
 
 #titu{
@@ -9,5 +10,5 @@
 
 #imagentitulo{
     display: flex;
-    
+
 }
