@@ -1,0 +1,67 @@
+html {
+    padding: 15px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+    background-color:cadetblue
+}
+
+
+.navbar-brand{
+    padding-left: 15px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.navbar{
+    background-color:dimgrey !important;  
+}
+
+#colorbeich{
+    background-color: beige !important;
+}
+
+
+
+.h1{
+    
+    
+}
+
+#breaker{
+    height: 20px;
+    background-color: beige;
+
+}
+
+#div-grande{
+    margin-left: 10%;
+
+}
+
+body{
+}
+
+
+iframe{
+    background-color: beige;
+}
+
+i{
+    padding-right: 10px;
+
+   color: rgb(225, 138, 16);
+}
+
+
+#reviews{
+
+    background-color: darkgray;
+    border-radius: 5px;
+    height: 30px;
+    width: 400px;
+}
+
+
+.container-sm {
+    width: 440px; /* Can be in percentage also. */
+    
+}
