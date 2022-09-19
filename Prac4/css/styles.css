@@ -11,27 +11,12 @@ html {
     font-family:'Times New Roman', Times, serif;
 }
 
-.navbar{
-   /* \\background-color: gray !important;  */
-}
-
-#color{
-    background-color: white !important;
-}
-
-
 #divprincipal{
     margin-left: 15%;
 
 }
 
-iframe{
-    background-color: white;
-}
-
-
 #reviews{
-
 
     border-radius: 5px;
     height: 30px;
@@ -39,11 +24,9 @@ iframe{
 }
 
 i{
-    padding-right: 10px;
-
-   color: rgb(66, 167, 28) ;
+  padding-right: 10px;
+  color: rgb(66, 167, 28) ;
 }
-
 
 .container-sm {
     width: 440px; /* Can be in percentage also. */
