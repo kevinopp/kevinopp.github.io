@@ -38,6 +38,12 @@ iframe{
     width: 400px;
 }
 
+i{
+    padding-right: 10px;
+
+   color: rgb(225, 138, 16);
+}
+
 
 .container-sm {
     width: 440px; /* Can be in percentage also. */
