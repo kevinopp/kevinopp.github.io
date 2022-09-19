@@ -16,13 +16,6 @@ html {
 
 }
 
-#comentarios{
-
-    border-radius: 5px;
-    height: 30px;
-    width: 400px;
-}
-
 i{
   padding-right: 10px;
   color: rgb(66, 167, 28) ;
@@ -31,4 +24,11 @@ i{
 .container-sm {
     width: 440px; /* Can be in percentage also. */
     
+}
+
+#comentarios{
+
+    border-radius: 5px;
+    height: 30px;
+    width: 400px;
 }
