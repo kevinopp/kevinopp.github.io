@@ -1,5 +1,5 @@
 html {
-    padding: 15px;
+    padding: 20px;
     font-family:'Times New Roman', Times, serif;
     text-align: justify;
     background-color:cadetblue
@@ -7,7 +7,7 @@ html {
 
 
 .navbar-brand{
-    padding-left: 15px;
+    padding-left: 20px;
     font-family:'Times New Roman', Times, serif;
 }
 
