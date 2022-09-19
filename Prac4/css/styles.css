@@ -12,37 +12,21 @@ html {
 }
 
 .navbar{
-    background-color:dimgrey !important;  
+   /* \\background-color: gray !important;  */
 }
 
 #color{
-     /* \\background-color: gray !important;  */
+    background-color: cadetblue !important;
 }
 
-
-
-.h1{
-    
-    
-}
-
-#breaker{
-    height: 20px;
-    background-color: beige;
-
-}
 
 #div-grande{
     margin-left: 10%;
 
 }
 
-body{
-}
-
-
 iframe{
-    background-color: beige;
+    background-color: cadetblue;
 }
 
 i{
